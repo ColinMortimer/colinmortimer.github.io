@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title: Colin Mortimer
-description: Under construction. I'll get to it when I do!
+  name: Colin Mortimer
+  markdown: kramdown
